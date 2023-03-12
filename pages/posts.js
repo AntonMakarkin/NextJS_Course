@@ -1,7 +1,9 @@
+import Heading from "@/components/Heading";
+
 const Posts = () => (
     <>
-        <h1>Posts list:</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+        <Heading text="Posts list:"/>
+        <Heading tag="h2" text="Lorem ipsum dolor sit amet consectetur adipisicing elit"/>
     </>
 );
 

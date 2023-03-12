@@ -1,5 +1,7 @@
+import Heading from "@/components/Heading";
+
 const Contact = () => (
-    <h1>Vika Shipko</h1>
+    <Heading text="Vika Shipko"/>
 );
 
 export default Contact;
